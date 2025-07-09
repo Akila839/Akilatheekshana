@@ -1,0 +1,18 @@
+document.getElementById("b1").onclick=function(){
+    document.getElementById("h1").style.color="black";  
+    document.getElementById("div1").style.backgroundColor="white";
+    document.getElementById("h21").style.color="black"
+    document.getElementById("pa1").style.color="black"
+    document.getElementById("h32").style.color="black"
+    document.getElementById("pa2").style.color="black"
+    document.getElementById("h33").style.color="black"
+    document.getElementById("con1").style.color="black"
+    document.getElementById("pa3").style.color="black"
+    document.getElementById("pa4").style.color="black"
+    document.getElementById("h34").style.color="black"
+    document.getElementById("h41").style.color="black"
+    document.getElementById("div2").style.backgroundColor="white"
+    document.body.style.backgroundColor="gray"
+    document.getElementById("h41").style.color="white"
+    document.getElementById("b1").style.display="none"
+}
